@@ -105,39 +105,15 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Mochila Paloma</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Mochila Raissa</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
      
-            <img class="img-fluid" src="imagens/mochila1.jpg">
-            <p>Mochila em couro legitimo, com costuras reforçadas e alças anatômicas.
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-        <button type="button" class="btn btn-primary">Adicionar ao Carrinho</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<!-- Modal -->
-<div class="modal fade" id="academia" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Mochila Paloma</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-     
-            <img class="img-fluid" src="imagens/mochila1.jpg">
-            <p>Mochila em couro legitimo, com costuras reforçadas e alças anatômicas.
+            <img class="img-fluid" src="imagens/mochila2.jpg">
+            <p>Mochila em couro legitimo.
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -153,15 +129,39 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Mochila Paloma</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Mochila Mayra</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
      
-            <img class="img-fluid" src="imagens/mochila1.jpg">
-            <p>Mochila em couro legitimo, com costuras reforçadas e alças anatômicas.
+            <img class="img-fluid" src="imagens/mochila3.jpg">
+            <p>Mochila em couro legitimo, com costuras reforçadas.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+        <button type="button" class="btn btn-primary">Adicionar ao Carrinho</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="academia" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Mochila Academia</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+     
+            <img class="img-fluid" src="imagens/mochila4.jpg">
+            <p>Mochila confortavel e de tecido fino.
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
