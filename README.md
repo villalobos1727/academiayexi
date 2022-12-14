@@ -1,2 +1,0 @@
-# academiayexi
-academia y loja 
